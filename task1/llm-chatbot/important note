@@ -1,0 +1,2 @@
+Note: The virtual environment (venv) is not included because it’s too large.  
+Also, .env files with tokens are excluded for security reasons.  
