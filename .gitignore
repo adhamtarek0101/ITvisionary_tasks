@@ -1,0 +1,13 @@
+﻿# Ignore Python virtual environments
+venv/
+task1/llm-chatbot/venv/
+
+# Ignore secrets
+.env
+*.env
+task1/llm-chatbot/backend/.env
+
+# Ignore zip & cache
+*.zip
+__pycache__/
+*.pyc
